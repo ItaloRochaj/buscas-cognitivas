@@ -23,11 +23,11 @@ Antes de iniciar a configuração, certifique-se de ter:
    - **Localização** (preferencialmente "East US")
    - **Plano de Preço** (Free para testes, Standard ou superior para produção)
 4. Clique em **Revisar + Criar** e confirme a criação do serviço.
-![print1]()
-![print2]()
-![print3]()
-![print4]()
-![print5]()
+![print1](https://github.com/ItaloRochaj/buscas-cognitivas/blob/main/assets/print1.png)
+![print2](https://github.com/ItaloRochaj/buscas-cognitivas/blob/main/assets/print2.png)
+![print3](https://github.com/ItaloRochaj/buscas-cognitivas/blob/main/assets/print3.png)
+![print4](https://github.com/ItaloRochaj/buscas-cognitivas/blob/main/assets/print4.png)
+![print5](https://github.com/ItaloRochaj/buscas-cognitivas/blob/main/assets/print5.png)
 
 
 ---
