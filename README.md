@@ -23,10 +23,16 @@ Antes de iniciar a configuração, certifique-se de ter:
    - **Localização** (preferencialmente "East US")
    - **Plano de Preço** (Free para testes, Standard ou superior para produção)
 4. Clique em **Revisar + Criar** e confirme a criação do serviço.
+![print1]()
+![print2]()
+![print3]()
+![print4]()
+![print5]()
+
 
 ---
 
-## 3. Configuração da Indexação de Dados
+## 3. Criando um novo Recurso
 ### 3.1 Criando um Índice
 1. Acesse o **Azure Cognitive Search** no portal do Azure.
 2. Vá para a guia **Índices** e clique em **Adicionar Índice**.
